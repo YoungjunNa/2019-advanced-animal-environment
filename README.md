@@ -3,7 +3,7 @@
 
 --------------------------------------
 ## Textbook
-- [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/)  
+- [Animal Environmental science](https://youngjunna.github.io/animal-environmental-science/)  
 
 --------------------------------------
 ## Course Format
